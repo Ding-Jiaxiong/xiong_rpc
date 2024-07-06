@@ -1,0 +1,2 @@
+no=com.dingjiaxiong.xiongrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.dingjiaxiong.xiongrpc.fault.retry.FixedIntervalRetryStrategy

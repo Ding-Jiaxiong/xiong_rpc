@@ -1,0 +1,4 @@
+failBack=com.dingjiaxiong.xiongrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.dingjiaxiong.xiongrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.dingjiaxiong.xiongrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.dingjiaxiong.xiongrpc.fault.tolerant.FailSafeTolerantStrategy

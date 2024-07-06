@@ -1,0 +1,4 @@
+jdk=com.dingjiaxiong.xiongrpc.serializer.JdkSerializer
+hessian=com.dingjiaxiong.xiongrpc.serializer.HessianSerializer
+json=com.dingjiaxiong.xiongrpc.serializer.JsonSerializer
+kryo=com.dingjiaxiong.xiongrpc.serializer.KryoSerializer

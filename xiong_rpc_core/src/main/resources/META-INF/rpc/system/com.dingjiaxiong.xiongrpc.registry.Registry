@@ -1,0 +1,2 @@
+etcd=com.dingjiaxiong.xiongrpc.registry.EtcdRegistry
+zookeeper=com.dingjiaxiong.xiongrpc.registry.ZooKeeperRegistry
